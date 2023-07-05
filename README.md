@@ -5,7 +5,7 @@
 
 I have developed a user-friendly website that allows users to search for their desired food items. The website utilizes HTML and Bootstrap for responsive design, ensuring compatibility across various devices. With the integration of JavaScript, the website becomes fully functional, providing a seamless user experience.
 
-Key Features:
+### Key Features:
 
 1) Food Search: Users can enter the name of the food they wish to eat into the search bar. The system will validate the input and check if the food is available in our database.
 
