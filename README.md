@@ -20,7 +20,8 @@ By combining the power of HTML, Bootstrap, and JavaScript, this website delivers
 
 ## Live Website
 
-GitHub Pages: 
+GitHub Pages: https://nadim-nion.github.io/meal-db-api/mealdb.html
+
 ## Deployment
 
 To deploy this project run
